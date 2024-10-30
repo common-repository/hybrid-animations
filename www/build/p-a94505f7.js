@@ -1,0 +1,1 @@
+function n(n){return n.split("").map((n=>" "===n?"&nbsp;":n))}export{n as s}
